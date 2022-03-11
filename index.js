@@ -106,3 +106,5 @@ validName('A. Kesya P.')
 
 validName('Angelina. Kesya Putri')
 // Words cannot end with a dot (only initials can)
+
+// test
